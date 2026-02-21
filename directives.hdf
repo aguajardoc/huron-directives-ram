@@ -18,7 +18,7 @@ WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|
-Bookmarks=RPC^https://redprogramacioncompetitiva.com/contests/2025/03|Codeforces^https://codeforces.com|
+Bookmarks=Codeforces^https://codeforces.com|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
