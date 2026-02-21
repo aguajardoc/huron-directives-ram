@@ -1,0 +1,36 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=2026-09-29T12:00:00
+AvailableKeyboardLayouts=latam|us|es|dvorak|
+DefaultKeyboardLayout=latam
+EventConfig=false
+ContestConfig=true
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|
+Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
+Wallpaper=https://califralia.com/media/standby-wallpaper.png
+WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
+
+[Event]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|
+Bookmarks=RPC^https://redprogramacioncompetitiva.com/contests/2025/03|Codeforces^https://codeforces.com|
+Wallpaper=default
+
+[Contest]
+AllowedWebsites=global.naquadah.com.br/boca|
+AllowUsbStorage=false
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
+Bookmarks={Contest^global.naquadah.com.br}|
+Wallpaper=https://www.califralia.com/media/huron_repechaje_2025.png
+WallpaperSha256=c21f3951057ed7ba55db2e9c1bd1403cf63bae71c1bb98f58f0cdd9e943ff761
+
+[Event-Times]
+
+[Contest-Times]
+2025-09-13T09:40:00 2025-09-13T09:50:00
+2025-09-13T10:58:00 2025-09-13T17:01:00
