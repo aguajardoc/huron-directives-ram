@@ -1,7 +1,7 @@
 [Global]
 TimeZone=America/Mexico_City
 ConfigExpirationTime=2026-09-29T12:00:00
-AvailableKeyboardLayouts=latam|us|es|dvorak|
+AvailableKeyboardLayouts=latam|us|es|
 DefaultKeyboardLayout=latam
 EventConfig=false
 ContestConfig=true
