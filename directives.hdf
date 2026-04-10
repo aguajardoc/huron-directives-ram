@@ -23,12 +23,12 @@ Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Contest]
-AllowedWebsites=global.naquadah.com.br/boca|
+AllowedWebsites=contest.icpcmexico.org|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
-Bookmarks={Contest^global.naquadah.com.br}|
-Wallpaper=https://www.califralia.com/media/huron_repechaje_2025.png
-WallpaperSha256=c21f3951057ed7ba55db2e9c1bd1403cf63bae71c1bb98f58f0cdd9e943ff761
+Bookmarks={Contest^contest.icpcmexico.org}|
+Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/contest_bkg.png
+WallpaperSha256=1ae7b50a226ca83480703fa1c6d1133bd0fca4f9ddd4ff796acc659b9deaf976
 
 [Event-Times]
 2026-02-21T10:50:00 2026-02-21T16:01:00
