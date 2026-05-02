@@ -27,8 +27,8 @@ AllowedWebsites=boca.icpcmexico.org|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
 Bookmarks={Contest^boca.icpcmexico.org}|
-Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/contest_bkg.png
-WallpaperSha256=1904bdf0b17c2ed2919583eeed52dc5013194d2fdee0bca9ea6bc10b8fe0efc5
+Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
+WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Event-Times]
 2026-02-21T10:50:00 2026-02-21T16:01:00
