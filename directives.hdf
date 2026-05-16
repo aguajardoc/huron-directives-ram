@@ -28,7 +28,7 @@ AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
 Bookmarks={Contest^boca.icpcmexico.org}|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/contest_bkg.png
-WallpaperSha256=1904bdf0b17c2ed2919583eeed52dc5013194d2fdee0bca9ea6bc10b8fe0efc5
+WallpaperSha256=c013c590c9c456a1c3c459c790961c64afb2302d23cfe213fd6a3e2391068ca1
 
 
 [Event-Times]
@@ -36,11 +36,9 @@ WallpaperSha256=1904bdf0b17c2ed2919583eeed52dc5013194d2fdee0bca9ea6bc10b8fe0efc5
 2026-02-28T10:50:00 2026-02-28T16:01:00
 
 [Contest-Times]
-2026-04-11T09:40:00 2026-04-11T10:00:00
-2026-04-11T10:05:00 2026-04-11T10:20:00
-2026-04-11T10:58:00 2026-04-11T17:01:00
-2026-04-18T09:40:00 2026-04-18T10:00:00
-2026-04-18T10:05:00 2026-04-18T10:20:00
-2026-04-18T10:47:00 2026-04-18T10:50:00
-2026-04-18T10:58:00 2026-04-18T17:01:00
-2026-05-02T10:58:00 2026-05-02T17:01:00
+2026-05-16T09:30:00 2026-05-16T09:35:00
+2026-05-16T09:40:00 2026-05-16T10:00:00
+2026-05-16T10:05:00 2026-05-16T10:20:00
+2026-05-16T10:30:00 2026-05-16T10:35:00
+2026-05-16T10:40:00 2026-05-16T10:50:00
+2026-05-16T10:58:00 2026-05-16T16:03:00
