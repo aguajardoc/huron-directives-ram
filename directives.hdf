@@ -7,32 +7,31 @@ EventConfig=false
 ContestConfig=true
 
 [Always]
-AllowedWebsites=all
+AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
-Bookmarks=Codeforces^https://codeforces.com|
+Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Event]
-AllowedWebsites=:https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|
+AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
-Bookmarks=omegaUp^https://omegaup.com|USACO-IDE^https://ide.usaco.guide|OnlineGDB^https://www.onlinegdb.com|ReferenciaC++^https://es.cppreference.com|
+Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Contest]
-AllowedWebsites=boca.icpcmexico.org|
+AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|
 AllowUsbStorage=false
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
-Bookmarks=Contest^https://boca.icpcmexico.org|
-Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/contest_bkg.png
-WallpaperSha256=c013c590c9c456a1c3c459c790961c64afb2302d23cfe213fd6a3e2391068ca1
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
+Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
+Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
+WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 
 [Event-Times]
-2026-06-27T09:00:00 2026-06-27T16:01:00
 2026-02-28T10:50:00 2026-02-28T16:01:00
 
 [Contest-Times]
@@ -42,3 +41,4 @@ WallpaperSha256=c013c590c9c456a1c3c459c790961c64afb2302d23cfe213fd6a3e2391068ca1
 2026-05-16T10:30:00 2026-05-16T10:35:00
 2026-05-16T10:40:00 2026-05-16T10:50:00
 2026-05-16T10:58:00 2026-05-16T16:03:00
+2026-06-27T09:00:00 2026-06-27T16:01:00
