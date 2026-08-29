@@ -1,44 +1,44 @@
 [Global]
 TimeZone=America/Mexico_City
-ConfigExpirationTime=2026-09-29T12:00:00
+ConfigExpirationTime=2026-09-30T12:00:00
 AvailableKeyboardLayouts=latam|us|es|
 DefaultKeyboardLayout=latam
 EventConfig=false
 ContestConfig=true
 
 [Always]
-AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|https://cdnjs.cloudflare.com|https://unpkg.com|https://html-load.com|
+AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
-Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|
+Bookmarks=Codeforces^https://codeforces.com|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Event]
-AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|https://cdnjs.cloudflare.com|https://unpkg.com|https://html-load.com|
+AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
-Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|
+Bookmarks=Codeforces^https://codeforces.com|
 Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
 WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
 
 [Contest]
-AllowedWebsites=https://omegaup.com|https://ide.usaco.guide|https://www.onlinegdb.com|https://es.cppreference.com|https://cdnjs.cloudflare.com|https://unpkg.com|https://html-load.com|
+AllowedWebsites=https://moj.naquadah.com.br/|
 AllowUsbStorage=false
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|programming/codeblocks|programming/vscode|
-Bookmarks={omegaUp^https://omegaup.com}|{USACO-IDE^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenciaC++^https://es.cppreference.com}|
-Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/training_bkg.png
-WallpaperSha256=a2d5a980bb441e61bcfb634c7e1adb26ca8e1c9736d9c2db3941b8c7aba5487f
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
+Bookmarks=Contest^https://moj.naquadah.com.br/|
+Wallpaper=https://raw.githubusercontent.com/aguajardoc/huron-directives-ram/refs/heads/main/contest_bkg.png
+WallpaperSha256=5AE7167F84E9E6B538BA78FEB2E7737A902DF3F3A1B4851F410196EE8E9412D3
 
 
 [Event-Times]
-2026-02-28T10:50:00 2026-02-28T16:01:00
+2026-08-29T10:50:00 2026-08-29T16:03:00
 
 [Contest-Times]
-2026-05-16T09:30:00 2026-05-16T09:35:00
-2026-05-16T09:40:00 2026-05-16T10:00:00
-2026-05-16T10:05:00 2026-05-16T10:20:00
-2026-05-16T10:30:00 2026-05-16T10:35:00
-2026-05-16T10:40:00 2026-05-16T10:50:00
-2026-05-16T10:58:00 2026-05-16T16:03:00
-2026-06-27T09:00:00 2026-06-27T16:01:00
+2026-08-29T00:00:00 2026-08-29T06:00:00
+2026-08-29T09:30:00 2026-08-29T09:35:00
+2026-08-29T09:40:00 2026-08-29T10:00:00
+2026-08-29T10:05:00 2026-08-29T10:20:00
+2026-08-29T10:30:00 2026-08-29T10:35:00
+2026-08-29T10:40:00 2026-08-29T10:50:00
+2026-08-29T10:58:00 2026-08-29T16:03:00
